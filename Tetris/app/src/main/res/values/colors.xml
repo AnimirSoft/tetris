@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorWhiteTrans">#30ffffff</color>
+
+    <color name="colorBg">#70000000</color>
+    <color name="colorRed">#DF0101</color>
+    <color name="colorBlue">#00A5FF</color>
+    <color name="colorPurple">#E96AE9</color>
+    <color name="colorSky">#09D9D9</color>
+    <color name="colorGreen">#09D909</color>
+    <color name="colorYellow">#D9D909</color>
+    <color name="colorOrange">#FF5900</color>
+
+
+</resources>
